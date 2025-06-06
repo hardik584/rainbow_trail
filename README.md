@@ -2,7 +2,7 @@
 
 A vibrant and dynamic Flutter animation that creates a beautiful rainbow trail effect as you interact with the screen. This project demonstrates the creative use of custom painters, animation controllers, and gesture detection in Flutter.
 
-![rainbow trail demo](https://your-demo-gif-or-image-link.com)
+![rainbow trail demo](https://jmp.sh/s/W5W2pDyoSfxuZAuj2szg)
 
 ## ✨ Features
 
@@ -15,8 +15,8 @@ A vibrant and dynamic Flutter animation that creates a beautiful rainbow trail e
 
 <!-- Add your screenshots here -->
 <p float="left">
-  <img src="screenshots/demo1.png" width="200"/>
-  <img src="screenshots/demo2.png" width="200"/>
+  <img src="https://ibb.co/7dJTfRTK" width="200"/>
+  <img src="https://ibb.co/tpvdgFPg" width="200"/>
 </p>
 
 ## 🚀 Getting Started
